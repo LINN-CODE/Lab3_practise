@@ -21,6 +21,10 @@ Testing for contetn in a third level heading
 - testing unordered list three
 - testing unordered list four
 
+* testing with star 1
+* testing with star 2
+* testing with star 3
+
 1. testing ordered list one
 2. testing ordered list two
 3. testing ordered list three
