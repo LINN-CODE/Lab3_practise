@@ -8,4 +8,4 @@ Testing for contetn in a third level heading
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 ![me](https://github.com/user-attachments/assets/013c8331-e77e-4f9a-8096-06f143c56c3c)
-![me](images/me)
+![me](image/me)
