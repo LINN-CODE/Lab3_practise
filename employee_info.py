@@ -24,7 +24,11 @@ def calculate_average_salary():
 
     #add your implementation to calculate here
 
-
+    for x in employee_data:
+        total = total+ x["salary"]
+        average += 1
+    average = total/average
+    average = round(average,2)
     return average
 
 def get_employees_by_dept(department):
